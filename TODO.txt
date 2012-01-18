@@ -1,0 +1,13 @@
+WuImagePLus 
+   	- eliminat pos, ang
+	- mereix uns procediments més catòlics.
+
+Els EnteManagers (en general)
+	- peten quan usem un array d' Entes (alguna cosa relacionada amb el gray.setFromPixels(FBO.getPixels())
+
+Falta wuGras/wuGarden
+
+El wuMoviePlus s' ha de fusionar amb el wuEnte, ....
+
+Els animals necessiten una plantilla-truco per saber com muntar-los exactament.
+
